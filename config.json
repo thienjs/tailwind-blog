@@ -1,0 +1,19 @@
+{
+  "base_url": "https://thien.me",
+  "site_title": "thien",
+  "site_description": "simple blog",
+  "site_keywords": [
+    {
+      "keyword": "Next.js"
+    },
+    {
+      "keyword": "thien"
+    },
+    {
+      "keyword": "React"
+    }
+  ],
+  "posts_per_page": 10,
+  "twitter_account": "@thientxt",
+  "github_account": "thienjs"
+}
